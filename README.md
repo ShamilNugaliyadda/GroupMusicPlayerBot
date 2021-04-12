@@ -32,9 +32,3 @@
 
 Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to get pyrogram string session
 
-### Credits
-- [ImJanindu](https://github.com/ImJanindu): Dev
-- [InukaASiTH](https://github.com/InukaAsith): Dev
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
-- [Original Repo](https://github.com/suprojects/CallsMusic)
-- [Infinity BOTs](https://t.me/Infinity_BOTs)
